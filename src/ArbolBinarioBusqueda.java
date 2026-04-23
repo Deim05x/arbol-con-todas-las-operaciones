@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Clase genérica del Árbol Binario de Búsqueda con todas las operaciones
+ *Deivid Mateo Cañan Pretel - Maria Camila Melo 
  */
 public class ArbolBinarioBusqueda<T extends Comparable<T>> {
     private Nodo<T> raiz;

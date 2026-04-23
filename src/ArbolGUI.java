@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.List;
 
 /**
- * Interfaz gráfica para el Árbol Binario de Búsqueda
+ *Deivid Mateo Cañan Pretel - Maria Camila Melo 
  */
 public class ArbolGUI extends JFrame {
     private ArbolBinarioBusqueda<Integer> arbol;

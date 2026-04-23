@@ -1,3 +1,6 @@
+/**
+ *Deivid Mateo Cañan Pretel - Maria Camila Melo 
+ */
 public class Nodo<T extends Comparable<T>> {
     public T dato;
     public Nodo<T> izquierdo;
